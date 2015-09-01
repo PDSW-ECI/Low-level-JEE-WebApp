@@ -93,7 +93,7 @@
                 <configuration>
                     <scanIntervalSeconds>2</scanIntervalSeconds>
                     <webApp>
-                        <contextPath>/test</contextPath>
+                        <contextPath>/clientes</contextPath>
                     </webApp>                    
                 </configuration>
             </plugin>
